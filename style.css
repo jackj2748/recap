@@ -1,11 +1,19 @@
 h1{
-  color: red;
+  color: white;
   font-family: 'Trade Winds' ;
   text-align: center;
 }
 
 h2{
-  color: red;
+  color: white;
   font-family: 'Trade Winds' ;
   text-align: center;
+}
+
+header{
+  background-color: black;
+}
+
+body{
+  background-color: maroon;
 }
